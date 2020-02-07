@@ -37,6 +37,9 @@ h1, h2 {
 
 p {
   font-size: 14px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  padding-top: 0px;
 }
 
 /* Hyperlink */
@@ -83,7 +86,7 @@ label {
 }
 
 .button:hover, button:hover {
-  opacity: 0.8;
+  opacity: 0.95;
   font-weight: normal;
 }
 
